@@ -22,7 +22,7 @@ Follow these steps to set up the project locally:
 
 ### Step 1: Clone the Repository
 ```bash
-$ git clone <repository_url>
+$ git clone https://github.com/ArifRexa/TechForing.git
 $ cd <repository_directory>
 ```
 
